@@ -17,7 +17,7 @@
     "ioredis": "^4.17.3",
     "nodemailer": "^6.4.10",
     "nodemon": "^2.0.4",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "session": "^0.1.0",
     "telesignsdk": "^2.2.1",
     "url": "^0.11.0"
